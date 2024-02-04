@@ -5,4 +5,4 @@ class Question:
         self.answer = q_answer
 
 new_q = Question("What is that? ", "True")
-print(new_q.ext)
+print(new_q.text)

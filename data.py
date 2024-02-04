@@ -1,7 +1,4 @@
 question_data = [
-    {
-        "response_code": 0,
-        "results": [
             {
                 "type": "boolean",
                 "difficulty": "easy",
@@ -82,6 +79,4 @@ question_data = [
                 "correct_answer": "False",
                 "incorrect_answers": ["True"],
             },
-        ],
-    }
-]
+        ]
